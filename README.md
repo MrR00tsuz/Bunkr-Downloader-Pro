@@ -1,7 +1,6 @@
 # Bunkr Downloader Pro
 
-
-https://github.com/MrR00tsuz/Bunkr-Downloader-Pro/compare/v1.0.0-beta.1...Bunkr.Downloader.Pro.exeV1.1.0
+https://github.com/MrR00tsuz/Bunkr-Downloader-Pro/releases/download/v1.0.0-beta.1.1/Bunkr.Downloader.Pro.exe
 
 Bunkr Downloader Pro, Bunkr sitesinden medya dosyalarını indirmek için geliştirilmiş modern ve kullanıcı dostu bir araçtır.
 
